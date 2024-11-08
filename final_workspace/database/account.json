@@ -1,0 +1,58 @@
+{
+    "USERNAME": "Tevit",
+    "accounts": {
+        "Account1": {
+            "name": "Palmie123",
+            "category": "food",
+            "balance": 1360050.0,
+            "income_records": {
+                "record1": {
+                    "date": "2024-11-08",
+                    "amount": 50.0,
+                    "sender": "PVe"
+                },
+                "record2": {
+                    "date": "2024-11-08",
+                    "amount": 1500000.0,
+                    "sender": "Tevit"
+                }
+            },
+            "expense_records": {
+                "record1": {
+                    "date": "2024-11-08",
+                    "amount": 10000.0,
+                    "recipient": "Shop"
+                },
+                "record2": {
+                    "date": "2024-11-08",
+                    "amount": 50000.0,
+                    "recipient": "PDue"
+                },
+                "record3": {
+                    "date": "2024-11-08",
+                    "amount": 80000.0,
+                    "recipient": "Somsie101"
+                }
+            }
+        },
+        "Account2": {
+            "name": "Somsie101",
+            "category": "transportation",
+            "balance": 79990.0,
+            "income_records": {
+                "record1": {
+                    "date": "2024-11-08",
+                    "amount": 80000.0,
+                    "sender": "Palmie123"
+                }
+            },
+            "expense_records": {
+                "record1": {
+                    "date": "2024-11-08",
+                    "amount": 10.0,
+                    "recipient": "Arm151"
+                }
+            }
+        }
+    }
+}
