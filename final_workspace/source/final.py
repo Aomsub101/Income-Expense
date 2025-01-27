@@ -21,7 +21,7 @@ from spreadsheetAPI.sheet_management import GoogleSheet
 gg = GoogleSheet()
 
 # working directory
-DIR = r'G:\\My Drive\\Python2Project\\final_workspace'
+DIR = r'G:\\My Drive\\HarbourSpace\\Python2Project\\final_workspace'
 os.chdir(DIR)
 
 # for clearing the screen
